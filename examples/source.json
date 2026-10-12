@@ -1,0 +1,14 @@
+{
+  "project": "aurora",
+  "release": "0.4.2",
+  "environment": "sandbox",
+  "services": [
+    { "name": "gateway", "port": 8080, "replicas": 2, "healthy": true },
+    { "name": "search", "port": 8081, "replicas": 1, "healthy": true },
+    { "name": "cache", "port": 6379, "replicas": 1, "healthy": false }
+  ],
+  "limits": { "timeoutMs": 3000, "retries": 3, "ratePerMinute": 120 },
+  "features": { "darkMode": true, "experimental": false },
+  "labels": ["personal", "demo", "local-first"],
+  "metadata": { "owner": "independent", "notes": null }
+}

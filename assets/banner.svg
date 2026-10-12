@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="JSON Lens">
+<rect width="1200" height="350" rx="12" fill="#f2f5fa"/><rect width="18" height="350" rx="6" fill="#1677ff"/>
+<rect x="62" y="52" width="43" height="43" rx="9" fill="#1677ff"/><text x="83" y="82" fill="white" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700">{ }</text>
+<text x="123" y="82" fill="#526078" font-family="Arial,sans-serif" font-size="17" letter-spacing="2">INDEPENDENT DEVELOPER TOOLS</text>
+<text x="60" y="175" fill="#15233a" font-family="Arial,sans-serif" font-size="70" font-weight="700">JSON Lens</text>
+<text x="64" y="220" fill="#335075" font-family="Arial,sans-serif" font-size="20" letter-spacing="1">EXPLORE / COMPARE</text>
+<rect x="64" y="262" width="92" height="29" rx="5" fill="#e2edff"/><text x="78" y="281" fill="#165cbd" font-family="Arial,sans-serif" font-size="12" font-weight="700">ZH / EN</text>
+<text x="178" y="281" fill="#526078" font-family="Arial,sans-serif" font-size="13">MIT · LIVE DEMO · v0.1.0</text>
+<rect x="820" y="80" width="292" height="204" rx="10" fill="#fff" stroke="#d8e0eb"/><rect x="820" y="80" width="292" height="32" rx="10" fill="#eaf2ff"/><circle cx="837" cy="96" r="3" fill="#1677ff"/><rect x="851" y="93" width="70" height="6" rx="3" fill="#abc8f5"/><text x="849" y="179" font-family="Consolas,monospace" font-size="38" font-weight="700" fill="#173457">{ }</text><path d="M945 143h135M945 166h94M849 218h231M849 241h179" stroke="#d7e4f8" stroke-width="8" stroke-linecap="round"/><circle cx="1084" cy="241" r="13" fill="#21a675"/><path d="m1078 241 4 4 8-10" stroke="white" fill="none" stroke-width="2"/></svg>
