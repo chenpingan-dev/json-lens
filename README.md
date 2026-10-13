@@ -1,6 +1,6 @@
 ![JSON Lens](assets/banner.svg)
 
-[![CI](https://github.com/honggege957-collab/json-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/honggege957-collab/json-lens/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/License-MIT-7de2d1) ![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-8fa3bf)
+[![CI](https://github.com/chenpingan-dev/json-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/chenpingan-dev/json-lens/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/License-MIT-7de2d1) ![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-8fa3bf)
 
 # JSON Lens
 
@@ -8,7 +8,7 @@ A browser workbench for understanding JSON, one key at a time.
 
 一个在浏览器中运行的 JSON 数据工作台：看清结构，定位路径，比较变化。
 
-**[Live demo](https://honggege957-collab.github.io/json-lens/)** · **[中文说明](README.zh-CN.md)** · [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md)
+**[Live demo](https://chenpingan-dev.github.io/json-lens/)** · **[中文说明](README.zh-CN.md)** · [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md)
 
 ![Working application screenshot](assets/screenshot.png)
 
@@ -27,7 +27,7 @@ A browser workbench for understanding JSON, one key at a time.
 Requires **Node.js 22+**. No external packages are required to run the app.
 
 ```bash
-git clone https://github.com/honggege957-collab/json-lens.git
+git clone https://github.com/chenpingan-dev/json-lens.git
 cd json-lens
 npm ci
 npm start

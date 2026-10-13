@@ -2,7 +2,7 @@
 
 一个在浏览器中运行的 JSON 数据工作台：看清结构，定位路径，比较变化。
 
-[在线演示](https://honggege957-collab.github.io/json-lens/) · [English](README.md)
+[在线演示](https://chenpingan-dev.github.io/json-lens/) · [English](README.md)
 
 ![项目实际运行截图](assets/screenshot.png)
 
@@ -19,7 +19,7 @@
 需要 Node.js 22 或以上，无需外部运行时依赖。
 
 ```bash
-git clone https://github.com/honggege957-collab/json-lens.git
+git clone https://github.com/chenpingan-dev/json-lens.git
 cd json-lens
 npm ci
 npm start
