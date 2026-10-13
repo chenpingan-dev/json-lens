@@ -44,7 +44,7 @@ const translations = {
   "Clarity, in every key.": "每个字段，都看得明白",
   "Explore nested structures. Follow a pointer. See exactly what changed.":
     "浏览嵌套结构，定位指定路径，准确找出每一处变化",
-  "↺ Load sample": "↺ 加载示例",
+  "↺ Load sample": "↺ 载入预置数据",
   "↓ Export JSON": "↓ 导出 JSON",
   "Total nodes": "节点总数",
   "Objects, arrays and values": "包含对象、数组和值",
@@ -95,7 +95,7 @@ const translations = {
   "Both documents must be valid JSON to compare.":
     "两份文档都通过 JSON 校验后才能比较",
   "Check JSON syntax": "请检查 JSON 语法",
-  "Unable to load sample files": "无法加载示例文件",
+  "Unable to load sample files": "无法载入预置数据",
   "File exceeds the 2 MiB limit": "文件超过 2 MiB 限制",
   "Select a valid value first": "请先选中一个有效值",
   "Value copied.": "已复制选中的值",
@@ -383,6 +383,8 @@ const translations = {
   "↺ Reset sample": "还原示例",
 };
 const englishCopy = {
+  "↺ Load sample": "Load built-in data",
+  "Unable to load sample files": "Unable to load built-in data",
   "Workflow planner": "Task planner",
   "Resilience playground": "Async console",
   "Explore structures, resolve paths and compare documents.":

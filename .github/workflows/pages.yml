@@ -1,4 +1,4 @@
-name: Deploy demo
+name: Publish JSON workbench
 on:
   push:
     branches: [main]

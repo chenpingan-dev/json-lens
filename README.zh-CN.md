@@ -2,7 +2,7 @@
 
 一个在浏览器中运行的 JSON 数据工作台：看清结构，定位路径，比较变化。
 
-[在线演示](https://chenpingan-dev.github.io/json-lens/) · [English](README.md)
+[打开 JSON 工作台](https://chenpingan-dev.github.io/json-lens/) · [English](README.md)
 
 ![项目实际运行截图](assets/screenshot.png)
 

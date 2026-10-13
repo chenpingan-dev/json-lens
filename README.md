@@ -8,7 +8,7 @@ A browser workbench for understanding JSON, one key at a time.
 
 一个在浏览器中运行的 JSON 数据工作台：看清结构，定位路径，比较变化。
 
-**[Live demo](https://chenpingan-dev.github.io/json-lens/)** · **[中文说明](README.zh-CN.md)** · [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md)
+**[Open JSON workbench](https://chenpingan-dev.github.io/json-lens/)** · **[中文说明](README.zh-CN.md)** · [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md)
 
 ![Working application screenshot](assets/screenshot.png)
 
